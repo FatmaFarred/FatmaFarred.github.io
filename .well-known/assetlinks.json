@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.nplanet.ankh_project",
+            "sha256_cert_fingerprints": [
+                "42:8A:30:DC:1C:47:4B:15:53:8C:29:64:0D:86:79:B4:09:F5:5F:DA:49:6E:D9:3F:BC:EB:73:BE:C7:66:AC:3B"
+            ]
+        }
+    }
+]
